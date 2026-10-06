@@ -17,7 +17,7 @@
 <link
     rel="icon"
     type="image/png"
-    href="{{ asset('images/enzocode-logo.png') }}?v=3"
+    href="/images/enzocode-logo.png?v=4"
 >
 
 <!-- SEO -->
