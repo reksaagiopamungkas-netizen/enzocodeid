@@ -16,13 +16,8 @@
 <!-- Favicon -->
 <link
     rel="icon"
-    type="image/svg+xml"
-    href="{{ asset('images/enzocode-favicon.svg') }}?v=2"
->
-
-<link
-    rel="shortcut icon"
-    href="{{ asset('images/enzocode-favicon.svg') }}?v=2"
+    type="image/png"
+    href="{{ asset('images/enzocode-logo.png') }}?v=3"
 >
 
 <!-- SEO -->
