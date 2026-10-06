@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
 
-```
+
 <meta
     name="viewport"
     content="width=device-width, initial-scale=1.0"
@@ -14,6 +14,7 @@
 <title>{{ $title ?? 'EnzoCode.id — Creative Digital Agency' }}</title>
 
 <!-- Favicon -->
+
 <link
     rel="icon"
     type="image/png"
@@ -86,7 +87,7 @@
 
 <body class="bg-[#050816] text-white overflow-x-hidden">
 
-```
+
 {{-- Background Glow --}}
 <div class="fixed inset-0 -z-10 overflow-hidden pointer-events-none">
 
